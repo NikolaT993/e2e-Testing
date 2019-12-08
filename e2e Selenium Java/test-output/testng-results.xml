@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="3" total="4" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="16497" started-at="2019-12-06T11:36:26Z" finished-at="2019-12-06T11:36:43Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="16497" started-at="2019-12-06T11:36:26Z" finished-at="2019-12-06T11:36:43Z">
+      <class name="testCases.PregledZgradaTest">
+        <test-method status="PASS" signature="SetUp()[pri:0, instance:testCases.PregledZgradaTest@343f4d3d]" name="SetUp" is-config="true" duration-ms="15160" started-at="2019-12-06T11:36:26Z" finished-at="2019-12-06T11:36:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- SetUp -->
+        <test-method status="PASS" signature="PozitivanTestPretrageZgrade1()[pri:0, instance:testCases.PregledZgradaTest@343f4d3d]" name="PozitivanTestPretrageZgrade1" duration-ms="1132" started-at="2019-12-06T11:36:42Z" finished-at="2019-12-06T11:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PozitivanTestPretrageZgrade1 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testCases.PregledZgradaTest@343f4d3d]" name="tearDown" is-config="true" duration-ms="122" started-at="2019-12-06T11:36:43Z" finished-at="2019-12-06T11:36:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testCases.PregledZgradaTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
